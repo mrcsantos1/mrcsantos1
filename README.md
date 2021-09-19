@@ -4,7 +4,7 @@
 
  <div> 
   <a href="https://github.com/mrcsantos1"> 
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcsantos1&layout=compact&langs_count=7&theme=highcontrast"/> 
+  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcsantos1&layout=compact&langs_count=7&theme=highcontrast"/> 
   <img align="top" alt="Marcos-PYTHON" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
 	<img align="top" alt="Marcos-POSTGRESQL" height="100" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 	<img align="top" alt="Marcos-DATABASE" height="80" width="80" src="https://img-premium.flaticon.com/png/512/586/premium/586293.png?token=exp=1632070464~hmac=8617f60fd68b56b22976a29e1e293009" />	
