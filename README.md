@@ -1,5 +1,5 @@
-## Estudante de engenharia elétrica que ama programação. ⚡👨‍💻 
 
+# ⚡👨‍💻 
 [comment]: <> (<img height="200em" src="https://github-readme-stats.vercel.app/api?username=mrcsantos1&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>) 
 
 
@@ -11,6 +11,7 @@
   <a align="center" href="https://github.com/mrcsantos1"> 
   <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcsantos1&layout=compact&langs_count=7&theme=highcontrast"/> 
 
+	  
 </div>  
 	
 
